@@ -1,4 +1,10 @@
 # Methodology for Machine Learning on the Titanic Dataset
+
+<p align="center">
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/656/449/desktop-wallpaper-titanic-movie-beautiful-titanic-movie-characters.jpg" />
+</p>
+
+
 This repository contains a methodology for machine learning on the Titanic dataset, designed for Kaggle competitions. The goal is to predict whether a passenger survived or not based on various features such as age, sex, and ticket class.
 
 # Getting Started
