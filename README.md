@@ -4,9 +4,8 @@ This repository contains a methodology for machine learning on the Titanic datas
 # Getting Started
 To get started, clone this repository to your local machine. You will need Python 3 and several libraries, including Pandas, Scikit-learn, Seaborn.
 
-
 # Files
-The repository includes the following files:
+The repository includes the following files :
 
 - train.csv and test.csv : Contain the train and test set of Titanic dataset in CSV format.
 - gender_submission.csv : Contains the result for the Kaggle Competitions for the Titanic dataset.
@@ -14,7 +13,7 @@ The repository includes the following files:
 - README.md: this file, providing an overview of the repository.
 
 # Methodology
-The methodology consists of several steps, including data exploration and visualization, data cleaning and preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation. Each step is documented in detail in the Jupyter notebooks.
+The methodology consists of several steps, including data exploration and visualization, data cleaning and preprocessing, feature engineering, model selection, hyperparameter tuning and evaluation. Each step is documented in detail in the Jupyter notebooks.
 
 # Usage
 Follow the instructions by running the code cells and modifying the code as needed. Make sure to run them in order.
@@ -23,4 +22,4 @@ Follow the instructions by running the code cells and modifying the code as need
 The methodology achieves an accuracy of 0.81339 on the Titanic dataset, using a Random Forest classifier (for the parameters, read my notebook).
 
 # Credits
-This methodology was developed by MetalGray (MetalGearRAY). It is based on the Kaggle competition Titanic: Machine Learning from Disaster.
+This methodology was developed by MetalGray (MetalGearRAY). It is based on the Kaggle competition Titanic : Machine Learning from Disaster.
